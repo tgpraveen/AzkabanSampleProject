@@ -1,0 +1,4 @@
+# jobpreprocessdata.job
+type=command
+dependencies=jobinit
+command=sh scripts/job2.sh

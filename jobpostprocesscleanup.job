@@ -1,0 +1,4 @@
+# jobpostprocesscleanup.job
+type=command
+dependencies=jobsqoop
+command=echo "I am going to delete unneccesary files and clean up the trash."

@@ -1,0 +1,4 @@
+# jobhive.job
+type=command
+dependencies=jobetl2
+command=echo "I run the hive script."

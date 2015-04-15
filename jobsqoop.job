@@ -1,0 +1,4 @@
+# jobsqoop.job
+type=command
+dependencies=jobhive
+command=echo "I am going to sqoop the final results to a RealtionalDB."

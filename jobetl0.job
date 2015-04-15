@@ -1,0 +1,4 @@
+# jobetl0.job
+type=command
+dependencies=jobstartactual
+command=echo "My name is jobetl0."

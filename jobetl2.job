@@ -1,0 +1,4 @@
+# jobetl2.job
+type=command
+dependencies=jobetl0,jobetl1
+command=echo "ETL 2. Could be a nice MR Job."

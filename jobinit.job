@@ -1,0 +1,3 @@
+# jobinit.job
+type=command
+command=echo "**And so it begins..**"
